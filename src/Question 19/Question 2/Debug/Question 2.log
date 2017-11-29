@@ -1,0 +1,6 @@
+﻿  Assembling Main.asm...
+Main.asm(49): error A2006: undefined symbol : printMenu
+Main.asm(50): error A2006: undefined symbol : menuSelection
+Main.asm(63): error A2006: undefined symbol : array
+Main.asm(64): error A2006: undefined symbol : array
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Main.obj" /Fl"Question 2.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /TaMain.asm" exited with code 1.
